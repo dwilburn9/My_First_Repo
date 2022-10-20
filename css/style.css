@@ -1,0 +1,44 @@
+.inline-block {
+    display: inline-block;
+    background-color: white;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    position: sticky;
+    height: 150px;
+  }
+  .header {
+    background-color: grey;
+    padding: 5px;
+  }
+  .left {
+    float: left;
+    width: 30%;
+    background-color: #333333;
+    height: 500px;
+  }
+  .right {
+    float: left;
+    width: 70%;
+    background-color: #CCCCCC;
+    height: 500px;
+  }
+  .container1 {
+    text-align: left;
+    padding: 15px;
+  }
+  .container2 {
+    background-color: #999999;
+    padding: 15px;
+  }
+  .container3 {
+    text-align: center;
+    background-color: #F57A65;
+    padding: 15px;
+  }  
+  .imagePlaceholder {
+    height: 250px;
+    background-color: #666666;
+    text-align: center;
+  }
+  
